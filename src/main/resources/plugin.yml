@@ -1,0 +1,6 @@
+name: BirthdayWishes
+version: ${project.version}
+main: com.rokita.birthdaywishes.Main
+api-version: 1.13
+authors: [JR]
+description: Birthday Wish Plugin
